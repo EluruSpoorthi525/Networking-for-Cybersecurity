@@ -314,19 +314,4 @@ Proper firewall configuration and monitoring are often required to demonstrate c
 
 ---
 
-# What's Next?
 
-Congratulations! 🎉 You have completed the **Networking Fundamentals** section.
-
-Recommended next repositories or modules:
-
-1. **Linux Fundamentals for Cybersecurity**
-2. **Windows Fundamentals**
-3. **Cybersecurity Fundamentals**
-4. **Governance, Risk & Compliance (GRC)**
-5. **Risk Management Frameworks**
-6. **ISO/IEC 27001**
-7. **NIST Cybersecurity Framework**
-8. **Security Policies & Standards**
-9. **Identity and Access Management (IAM)**
-10. **Cloud Security Fundamentals**
